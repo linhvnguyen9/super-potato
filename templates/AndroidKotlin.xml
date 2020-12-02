@@ -1,0 +1,14 @@
+<templateSet group="AndroidKotlin">
+  <template name="timberd" value="Timber.d(&quot;$MESSAGE$&quot;)" description="Timber debug log" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="dataBindingInflate" value="binding = $BINDING_CLASS_NAME$.inflate(inflater, container, false)&#10;&#10;binding.lifecycleOwner = viewLifecycleOwner&#10;&#10;return binding.root" description="Inflate a fragment with databinding" toReformat="false" toShortenFQNames="true">
+    <variable name="BINDING_CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>
