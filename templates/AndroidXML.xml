@@ -69,4 +69,28 @@
       <option name="XML_ATTRIBUTE" value="true" />
     </context>
   </template>
+  <template name="mt" value="android:layout_marginTop=&quot;$margin_top$&quot;" description="Margin top" toReformat="false" toShortenFQNames="true">
+    <variable name="margin_top" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="mb" value="android:layout_marginBottom=&quot;$margin_bottom$&quot;" description="Margin bottom" toReformat="false" toShortenFQNames="true">
+    <variable name="margin_bottom" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="ms" value="android:layout_marginStart=&quot;$margin_start$&quot;" description="Margin start" toReformat="false" toShortenFQNames="true">
+    <variable name="margin_start" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="me" value="android:layout_marginEnd=&quot;$margin_end$&quot;" description="Margin end" toReformat="false" toShortenFQNames="true">
+    <variable name="margin_end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
 </templateSet>
