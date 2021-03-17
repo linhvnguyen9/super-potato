@@ -4,6 +4,8 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="GetAllStreamsLargeResponse" type="PLAIN_TEXT" />
+      <mapping pattern="GetAllStreamsResponse" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
