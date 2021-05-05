@@ -1,0 +1,9 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="features/chat/src/main/res/layout/fragment_messages_home.xml" value="0.20729166666666668" />
+      </map>
+    </option>
+  </component>
+</application>
