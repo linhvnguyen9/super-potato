@@ -2,7 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="features/authenticate/src/main/res/layout/fragment_sso.xml" value="0.36875" />
         <entry key="features/chat/src/main/res/layout/fragment_messages_home.xml" value="0.20729166666666668" />
+        <entry key="features/chat/src/main/res/layout/fragment_profile.xml" value="0.26721014492753625" />
       </map>
     </option>
   </component>
