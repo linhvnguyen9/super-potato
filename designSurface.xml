@@ -2,6 +2,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.396875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="features/authenticate/src/main/res/layout/fragment_sso.xml" value="0.36875" />
         <entry key="features/authenticate/src/main/res/layout/fragment_workspace_select.xml" value="0.20729166666666668" />
         <entry key="features/chat/src/main/res/layout/fragment_messages_home.xml" value="0.20729166666666668" />
