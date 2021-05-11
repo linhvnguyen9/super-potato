@@ -3,10 +3,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.225" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27309782608695654" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.27309782608695654" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.27309782608695654" />
         <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.275" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21770833333333334" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21770833333333334" />
         <entry key="features/authenticate/src/main/res/layout/fragment_sso.xml" value="0.36875" />
         <entry key="features/authenticate/src/main/res/layout/fragment_workspace_select.xml" value="0.29257246376811596" />
         <entry key="features/chat/src/main/res/layout/fragment_messages_home.xml" value="0.20729166666666668" />
