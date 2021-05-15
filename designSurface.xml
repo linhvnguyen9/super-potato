@@ -31,6 +31,7 @@
         <entry key="features/chat/src/main/res/layout/item_image_message_sent.xml" value="0.36875" />
         <entry key="features/chat/src/main/res/layout/item_message_receive.xml" value="0.2609375" />
         <entry key="features/chat/src/main/res/layout/item_message_sent.xml" value="0.36875" />
+        <entry key="features/splash/src/main/res/drawable/background_splash_screen.xml" value="0.30833333333333335" />
       </map>
     </option>
   </component>
