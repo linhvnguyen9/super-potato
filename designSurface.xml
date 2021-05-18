@@ -18,6 +18,7 @@
         <entry key="app/src/main/res/layout/fragment_manager_main.xml" value="0.36875" />
         <entry key="app/src/main/res/layout/fragment_point_input.xml" value="0.2884963768115942" />
         <entry key="app/src/main/res/layout/fragment_student_list.xml" value="0.36875" />
+        <entry key="app/src/main/res/layout/item_announcement.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/item_classroom.xml" value="0.33" />
         <entry key="app/src/main/res/layout/item_order.xml" value="0.28804347826086957" />
         <entry key="app/src/main/res/layout/item_student.xml" value="0.36875" />
