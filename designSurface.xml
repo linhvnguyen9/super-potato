@@ -57,7 +57,10 @@
         <entry key="features/authenticate/src/main/res/layout/fragment_workspace_select.xml" value="0.29257246376811596" />
         <entry key="features/chat/src/main/res/drawable/background_image_message_sent.xml" value="0.23489583333333333" />
         <entry key="features/chat/src/main/res/drawable/background_invite_members.xml" value="0.5" />
+        <entry key="features/chat/src/main/res/drawable/ic_baseline_attach_file_24.xml" value="0.32407407407407407" />
+        <entry key="features/chat/src/main/res/drawable/ic_baseline_file_copy_24.xml" value="0.32407407407407407" />
         <entry key="features/chat/src/main/res/layout/activity_photo.xml" value="0.2109375" />
+        <entry key="features/chat/src/main/res/layout/fragment_attachment_chooser.xml" value="0.33" />
         <entry key="features/chat/src/main/res/layout/fragment_messages_home.xml" value="0.45493562231759654" />
         <entry key="features/chat/src/main/res/layout/fragment_private_messages.xml" value="0.3546875" />
         <entry key="features/chat/src/main/res/layout/fragment_profile.xml" value="0.26721014492753625" />
