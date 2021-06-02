@@ -27,7 +27,7 @@
         <entry key="app/src/main/res/layout/fragment_announcement_detail.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/fragment_class_list.xml" value="0.36875" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.20208333333333334" />
-        <entry key="app/src/main/res/layout/fragment_grade.xml" value="0.17933130699088146" />
+        <entry key="app/src/main/res/layout/fragment_grade.xml" value="0.22" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.27309782608695654" />
         <entry key="app/src/main/res/layout/fragment_home_detail.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.27309782608695654" />
