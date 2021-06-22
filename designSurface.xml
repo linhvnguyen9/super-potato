@@ -69,6 +69,8 @@
         <entry key="features/chat/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.3692708333333333" />
         <entry key="features/chat/src/main/res/drawable/ic_baseline_attach_file_24.xml" value="0.32407407407407407" />
         <entry key="features/chat/src/main/res/drawable/ic_baseline_file_copy_24.xml" value="0.32407407407407407" />
+        <entry key="features/chat/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1296875" />
+        <entry key="features/chat/src/main/res/drawable/ic_baseline_insert_drive_file_24.xml" value="0.1296875" />
         <entry key="features/chat/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.3692708333333333" />
         <entry key="features/chat/src/main/res/drawable/ic_baseline_search_24.xml" value="0.3692708333333333" />
         <entry key="features/chat/src/main/res/drawable/ic_baseline_send_24.xml" value="0.3692708333333333" />
@@ -79,15 +81,18 @@
         <entry key="features/chat/src/main/res/layout/fragment_private_messages.xml" value="0.3546875" />
         <entry key="features/chat/src/main/res/layout/fragment_profile.xml" value="0.26721014492753625" />
         <entry key="features/chat/src/main/res/layout/fragment_user_detail_bottom_sheet_dialog.xml" value="0.3541666666666667" />
+        <entry key="features/chat/src/main/res/layout/indicated_bottom_navigation.xml" value="0.3541666666666667" />
         <entry key="features/chat/src/main/res/layout/item_file_received.xml" value="0.3546875" />
         <entry key="features/chat/src/main/res/layout/item_file_sent.xml" value="0.3546875" />
         <entry key="features/chat/src/main/res/layout/item_image_message_receive.xml" value="0.2609375" />
         <entry key="features/chat/src/main/res/layout/item_image_message_sent.xml" value="0.36875" />
         <entry key="features/chat/src/main/res/layout/item_message_receive.xml" value="0.2749094202898551" />
         <entry key="features/chat/src/main/res/layout/item_message_sent.xml" value="0.3374094202898551" />
+        <entry key="features/chat/src/main/res/layout/item_popup_menu.xml" value="0.3541666666666667" />
         <entry key="features/chat/src/main/res/layout/item_topic.xml" value="0.17223910840932116" />
         <entry key="features/chat/src/main/res/layout/item_topic_view_more.xml" value="0.17223910840932116" />
         <entry key="features/chat/src/main/res/layout/item_user.xml" value="0.15896739130434784" />
+        <entry key="features/chat/src/main/res/menu/menu_message_click.xml" value="0.11458333333333333" />
         <entry key="features/chat/src/main/res/menu/menu_users_list.xml" value="0.3541666666666667" />
         <entry key="features/chat/src/main/res/xml/searchable.xml" value="0.19114583333333332" />
         <entry key="features/splash/src/main/res/drawable/background_splash_screen.xml" value="0.30833333333333335" />
