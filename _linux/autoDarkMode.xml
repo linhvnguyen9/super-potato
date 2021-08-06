@@ -10,7 +10,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
           <option name="name" value="lightTheme" />
-          <option name="value" value="com.intellij.ide.ui.laf.IntelliJLaf IntelliJ Light" />
+          <option name="value" value="com.intellij.ide.ui.laf.IntelliJLaf IntelliJ Light Legacy" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
@@ -20,7 +20,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
           <option name="name" value="highContrastTheme" />
-          <option name="value" value="com.intellij.ide.ui.laf.darcula.DarculaLaf High contrast" />
+          <option name="value" value="com.intellij.ide.ui.laf.IntelliJLaf IntelliJ Light Legacy" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:Editor Theme" />
@@ -40,7 +40,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:Editor Theme:group_0" />
           <option name="name" value="highContrastCodeScheme" />
-          <option name="value" value="_@user_High contrast" />
+          <option name="value" value="_@user_IntelliJ Light" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:Other" />
