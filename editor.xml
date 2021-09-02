@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="android.inputmethodservice.Keyboard.Row" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
   </component>
