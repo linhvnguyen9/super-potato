@@ -1,6 +1,6 @@
 <templateSet group="AndroidHilt">
-  <template name="hvm" value="@dagger.hilt.android.lifecycle.HiltViewModel&#10;fun $NAME$ @javax.inject.Inject constructor() :ViewModel() {&#10;$END$&#10;}" description="Hilt ViewModel" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="hvm" value="@dagger.hilt.android.lifecycle.HiltViewModel&#10;class $NAME$ @javax.inject.Inject constructor(): ViewModel() {&#10;$END$&#10;}" description="Hilt ViewModel" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_EXPRESSION" value="true" />
