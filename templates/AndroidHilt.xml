@@ -8,7 +8,7 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="useCase" value="class $NAME$ @javax.inject.Inject constructor(val $DEPENDENCY$: $DEPENDENCY_TYPE$) {&#10;    suspend operator fun invoke() = $DEPENDENCY$.$METHOD$$END$&#10;}" description="Clean Architecture Use Case with Hilt Injection" toReformat="false" toShortenFQNames="true">
+  <template name="useCase" value="class $NAME$ @javax.inject.Inject constructor(private val $DEPENDENCY$: $DEPENDENCY_TYPE$) {&#10;    suspend operator fun invoke() = $DEPENDENCY$.$METHOD$$END$&#10;}" description="Clean Architecture Use Case with Hilt Injection" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="DEPENDENCY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DEPENDENCY_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
