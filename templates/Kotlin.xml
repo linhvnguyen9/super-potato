@@ -1,0 +1,11 @@
+<templateSet group="Kotlin">
+  <template name="sf" value="private val _$NAME$ = MutableStateFlow&lt;$TYPE$&gt;($DEFAULT_VALUE$)&#10;val $NAME$: StateFlow&lt;$TYPE$&gt; get() = _$NAME$" description="StateFlow" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
