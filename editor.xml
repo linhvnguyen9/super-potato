@@ -16,6 +16,7 @@
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
+    <option name="enableJavaToKotlinConversion" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
