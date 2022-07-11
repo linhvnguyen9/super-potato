@@ -8,4 +8,10 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="enumf" value="fun from(type: String) = values().find { it.name == type } ?: $DEFAULT_VALUE$" description="Enum from string" toReformat="false" toShortenFQNames="true">
+    <variable name="DEFAULT_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
