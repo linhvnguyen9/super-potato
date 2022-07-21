@@ -93,4 +93,28 @@
       <option name="XML_ATTRIBUTE" value="true" />
     </context>
   </template>
+  <template name="ps" value="android:paddingStart=&quot;$padding_start$&quot;" description="Padding start" toReformat="false" toShortenFQNames="true">
+    <variable name="padding_start" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="pe" value="android:paddingEnd=&quot;$padding$&quot;" description="Padding end" toReformat="false" toShortenFQNames="true">
+    <variable name="padding" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="pt" value="android:paddingTop=&quot;$padding$&quot;" description="Padding top" toReformat="false" toShortenFQNames="true">
+    <variable name="padding" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="pb" value="android:paddingBottom=&quot;$padding$&quot;" description="Padding bottom" toReformat="false" toShortenFQNames="true">
+    <variable name="padding" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
 </templateSet>
