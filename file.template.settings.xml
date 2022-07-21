@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Hilt ViewModel.kt" file-name="${ViewModel_Name}ViewModel" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
