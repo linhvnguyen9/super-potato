@@ -21,4 +21,24 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="ic" value="@Inject constructor($END$)" description="Constructor inject" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="hbm" value="import dagger.Binds&#10;import dagger.Module&#10;import dagger.hilt.InstallIn&#10;import dagger.hilt.components.SingletonComponent&#10;&#10;@Module&#10;@InstallIn(SingletonComponent::class)&#10;interface $NAME$ {&#10;    &#10;    @Binds&#10;    fun $METHOD_NAME$(impl: $IMPL$): $INTERFACE$&#10;}" description="Hilt Bind Module" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IMPL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INTERFACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
