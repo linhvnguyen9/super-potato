@@ -1,5 +1,17 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Build" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Build" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CleanGradleProject" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
@@ -28,6 +40,12 @@
       <path value="Touchbar Run/Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ToggleBookmark" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="InvalidateCaches" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
@@ -35,21 +53,16 @@
       <path value="Touchbar Run/Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Other" is_group="true" action_type="1" position="11">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CodeMenu" is_group="true" action_type="1" position="12">
+    <group value="CodeMenu" is_group="true" action_type="1" position="13">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="ReformatCode" icon="$USER_HOME$/Downloads/cbe970ce9a19d2c6bec0d06c6004ccf0_400x400.png" />
-    <action id="InvalidateCaches" icon="$USER_HOME$/Downloads/02_10_2014_romeo_nuke.png" />
     <action id="CleanGradleProject" icon="$USER_HOME$/Downloads/download (1).png" />
     <action id="Build" icon="$USER_HOME$/Downloads/Android_logo_2019.png" />
+    <action id="InvalidateCaches" icon="$USER_HOME$/Downloads/02_10_2014_romeo_nuke.png" />
+    <action id="ToggleBookmark" icon="$USER_HOME$/Documents/download-icon-bookmark-131964752402712733_512.png" />
   </component>
 </application>
