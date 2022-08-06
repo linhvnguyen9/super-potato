@@ -41,4 +41,14 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="pv" value="@Provides&#10;fun provide$NAME$($COMP$: $TYPE$): $NAME$ {&#10;    return $NAME$($COMP$$END$)&#10;}" description="Hilt Provides" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="capitalize(COMP)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
