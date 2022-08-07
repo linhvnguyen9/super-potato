@@ -2,10 +2,6 @@
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="android.inputmethodservice.Keyboard.Row" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="MesloLGS NF" />
-  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
