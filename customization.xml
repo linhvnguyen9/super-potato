@@ -1,17 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Build" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Build" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="CleanGradleProject" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
@@ -33,17 +21,17 @@
       <path value="Default with Alt Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ToggleBookmark" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CleanGradleProject" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <path value="Touchbar Run/Debug Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToggleBookmark" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="InvalidateCaches" is_action="true" action_type="1" position="4">
@@ -53,7 +41,7 @@
       <path value="Touchbar Run/Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CodeMenu" is_group="true" action_type="1" position="13">
+    <group value="CodeMenu" is_group="true" action_type="1" position="12">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
