@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
+        <option value="package:mine  factory hash" />
         <option value="package:mine  is:crash " />
         <option value="package:min" />
-        <option value="package:mine is:crash " />
         <option value="package:mine factory hash" />
         <option value="package:mine" />
         <option value="package:mine vm list" />
