@@ -4,8 +4,15 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine is:crash " />
+        <option value="package:mine transactionsviewmodel " />
+        <option value="package:mine  factory hash" />
+        <option value="package:mine  is:crash " />
+        <option value="package:min" />
+        <option value="package:mine factory hash" />
         <option value="package:mine" />
+        <option value="package:mine vm list" />
         <option value="package:mine " />
+        <option value="package:mine fetchwallet" />
         <option value="package:mine    " />
       </list>
     </option>
