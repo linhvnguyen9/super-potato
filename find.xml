@@ -10,5 +10,6 @@
     <mask>colors.xml</mask>
     <mask>*Activity.kt</mask>
     <mask>*Fragment.kt</mask>
+    <mask>*Module1.kt</mask>
   </component>
 </application>
