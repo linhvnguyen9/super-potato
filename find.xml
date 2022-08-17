@@ -9,5 +9,6 @@
     <mask>*Activity.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Module1.kt</mask>
+    <mask>*CodeGenerator.kt</mask>
   </component>
 </application>
