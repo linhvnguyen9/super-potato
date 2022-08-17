@@ -64,4 +64,12 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="hb" value="@Binds&#10;fun bind$IMPL_CLASS$($IMPL_CLASS_VARIABLE$: $IMPL_CLASS$): $INTERFACE$" description="Hilt Binds" toReformat="false" toShortenFQNames="true">
+    <variable name="IMPL_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IMPL_CLASS_VARIABLE" expression="camelCase(IMPL_CLASS)" defaultValue="" alwaysStopAt="true" />
+    <variable name="INTERFACE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
