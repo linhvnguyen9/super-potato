@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine is:crash " />
+        <option value="package:mine nftassetviewmodel" />
         <option value="package:mine transactionsviewmodel " />
         <option value="package:mine  factory hash" />
         <option value="package:mine  is:crash " />
