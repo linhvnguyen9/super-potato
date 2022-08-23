@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine initviewmodel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine initviewmodel" />
+        <option value="package:mine end of input" />
         <option value="package:mine is:crash " />
         <option value="package:mine nftassetviewmodel" />
         <option value="package:mine transactionsviewmodel " />
