@@ -2,7 +2,9 @@
   <component name="VisualizationTool">
     <option name="state">
       <GlobalState>
+        <option name="configurationSetId" value="fontSizes" />
         <option name="firstTimeOpen" value="false" />
+        <option name="visible" value="true" />
       </GlobalState>
     </option>
   </component>
