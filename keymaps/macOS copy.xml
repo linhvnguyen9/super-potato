@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="f19" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="f19" />
+  </action>
+</keymap>
