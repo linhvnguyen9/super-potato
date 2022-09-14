@@ -5,9 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.200:5555" />
+            <value value="QV7040ZH1B" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-09-14T00:29:17.822395Z" />
         <name value="Sony H8296" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -16,7 +17,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="QV7040ZH1B" />
+            <value value="192.168.1.200:5555" />
           </Key>
         </key>
         <name value="Sony H8296" />
