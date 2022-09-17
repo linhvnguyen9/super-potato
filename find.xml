@@ -13,5 +13,6 @@
     <mask>*Module1.kt</mask>
     <mask>*CodeGenerator.kt</mask>
     <mask>*Module.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
