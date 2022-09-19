@@ -14,5 +14,6 @@
     <mask>*CodeGenerator.kt</mask>
     <mask>*Module.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
