@@ -14,7 +14,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="test" value="@Test&#10;fun `Given $GIVEN$, When $WHEN$, Then $THEN$`() {&#10;    $END$&#10;}" description="JUnit Test - Given When Then" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="@Test&#10;fun `Given $GIVEN$, when $WHEN$, then $THEN$`() {&#10;    $END$&#10;}" description="JUnit Test - Given When Then" toReformat="false" toShortenFQNames="true">
     <variable name="GIVEN" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="THEN" expression="" defaultValue="" alwaysStopAt="true" />
