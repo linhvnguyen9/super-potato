@@ -8,12 +8,12 @@
     <mask>*.kt</mask>
     <mask>*ViewModel.kt</mask>
     <mask>colors.xml</mask>
-    <mask>*Activity.kt</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Module1.kt</mask>
     <mask>*CodeGenerator.kt</mask>
     <mask>*Module.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>*Activity.kt</mask>
   </component>
 </application>
