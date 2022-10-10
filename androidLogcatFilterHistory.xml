@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:ERROR is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine toggle-coin" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine toggle-coin" />
         <option value="package:mine level:ERROR is:crash " />
         <option value="package:mine level:ERROR" />
         <option value="package:mine initviewmodel" />
