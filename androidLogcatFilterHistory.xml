@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine TestnetPreferences" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine TestnetPreferences" />
         <option value="package:mine is:crash " />
+        <option value="package:mine TestnetPreferences" />
         <option value="package:mine " />
         <option value="TestnetPreferences" />
         <option value="package:mine" />
