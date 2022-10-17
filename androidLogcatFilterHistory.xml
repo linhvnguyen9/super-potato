@@ -1,9 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="transactionrecordrepos" />
     <option name="nonFavorites">
       <list>
+        <option value="transactionrecordrepos" />
+        <option value="package:mine TransactionRecordRepository" />
         <option value="package:mine is:crash " />
+        <option value="package:mine TestnetPreferences" />
+        <option value="package:mine " />
+        <option value="TestnetPreferences" />
+        <option value="package:mine" />
         <option value="package:mine toggle-coin" />
         <option value="package:mine level:ERROR is:crash " />
         <option value="package:mine level:ERROR" />
@@ -15,11 +21,8 @@
         <option value="package:mine  is:crash " />
         <option value="package:min" />
         <option value="package:mine factory hash" />
-        <option value="package:mine" />
         <option value="package:mine vm list" />
-        <option value="package:mine " />
         <option value="package:mine fetchwallet" />
-        <option value="package:mine    " />
       </list>
     </option>
   </component>
