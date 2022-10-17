@@ -4,12 +4,14 @@
       <mapping pattern="exchange_rate_error.json" type="AUTO_DETECTED" />
       <mapping pattern="get_coins_market_data" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="GetAllStreamsResponse" type="PLAIN_TEXT" />
       <mapping pattern="GetAllStreamsLargeResponse" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping pattern="LastStreamAndTopicInfo" type="Properties" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sol" approved="true" type="AUTO_DETECTED" />
