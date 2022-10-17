@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="exception" />
+    <option name="mostRecentlyUsed" value="TransactionRecordRepository" />
     <option name="nonFavorites">
       <list>
+        <option value="TransactionRecordRepository" />
         <option value="exception" />
         <option value="package:mine key size" />
         <option value="package:mine key stize" />
@@ -22,7 +23,6 @@
         <option value="package:mine nftassetviewmodel" />
         <option value="package:mine transactionsviewmodel " />
         <option value="package:mine  factory hash" />
-        <option value="package:mine  is:crash " />
       </list>
     </option>
   </component>
