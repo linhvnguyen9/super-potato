@@ -4,6 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:TransactionAdapterManager " />
+        <option value="tag:TransactionAdapterManager initAdapters" />
+        <option value="tag:TransactionAdapterManager adaptersReadyObservable" />
+        <option value="tag:TransactionAdapterManager  " />
+        <option value="tag:TransactionAdapterManager getAdapter" />
         <option value="tag:TransactionRecordRepository setwallets" />
         <option value="TransactionRecordRepository" />
         <option value="exception" />
@@ -19,10 +23,6 @@
         <option value="TestnetPreferences" />
         <option value="package:mine toggle-coin" />
         <option value="package:mine level:ERROR is:crash " />
-        <option value="package:mine level:ERROR" />
-        <option value="package:mine initviewmodel" />
-        <option value="package:mine end of input" />
-        <option value="package:mine nftassetviewmodel" />
       </list>
     </option>
   </component>
