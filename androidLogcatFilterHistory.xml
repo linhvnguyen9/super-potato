@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="notificationlistener" />
+    <option name="mostRecentlyUsed" value="exception" />
     <option name="nonFavorites">
       <list>
+        <option value="exception" />
+        <option value="tag:BankNotificationListenerService " />
+        <option value="notification" />
         <option value="notificationlistener" />
         <option value="noti" />
         <option value="package:mine" />
@@ -15,14 +18,11 @@
         <option value="tag:TransactionAdapterManager getAdapter" />
         <option value="tag:TransactionRecordRepository setwallets" />
         <option value="TransactionRecordRepository" />
-        <option value="exception" />
         <option value="package:mine key size" />
         <option value="package:mine key stize" />
         <option value="package:mine " />
         <option value="package:mine is:crash" />
         <option value="package:mine is:crash " />
-        <option value="transactionrecordrepos" />
-        <option value="package:mine TransactionRecordRepository" />
       </list>
     </option>
   </component>
