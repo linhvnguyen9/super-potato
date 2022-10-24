@@ -8,10 +8,8 @@
             <value value="QV7040ZH1B" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-10-14T01:09:34.601476Z" />
-        <name value="Sony H8296" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -22,7 +20,7 @@
         </key>
         <name value="Sony H8296" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -33,7 +31,7 @@
         </key>
         <name value="Sony H8296" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -44,7 +42,7 @@
         </key>
         <name value="Sony H8296" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -55,7 +53,7 @@
         </key>
         <name value="Sony H8296" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
