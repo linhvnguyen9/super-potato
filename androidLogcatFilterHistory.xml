@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
         <option value="package:mine " />
         <option value="onNotificationPosted" />
         <option value="notification" />
@@ -22,7 +23,6 @@
         <option value="TransactionRecordRepository" />
         <option value="package:mine key size" />
         <option value="package:mine key stize" />
-        <option value="package:mine is:crash" />
       </list>
     </option>
   </component>
