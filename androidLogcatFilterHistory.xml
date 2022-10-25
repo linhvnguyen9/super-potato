@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine okhttp" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
         <option value="package:mine okhttp" />
         <option value="package:mine " />
         <option value="onNotificationPosted" />
@@ -22,7 +23,6 @@
         <option value="tag:TransactionRecordRepository setwallets" />
         <option value="TransactionRecordRepository" />
         <option value="package:mine key size" />
-        <option value="package:mine key stize" />
       </list>
     </option>
   </component>
