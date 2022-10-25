@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine BankNotificationListenerService " />
+    <option name="mostRecentlyUsed" value="package:mine pairaddress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine pairaddress" />
+        <option value="package:mine pairAddress" />
+        <option value="package:mine bestTradeExactIn" />
+        <option value="is:crash " />
         <option value="package:mine BankNotificationListenerService " />
         <option value="package:mine BankNotificationListenerService" />
         <option value="tag:TransactionAdapterManager " />
@@ -19,10 +23,6 @@
         <option value="package:mine is:crash" />
         <option value="package:mine is:crash " />
         <option value="package:mine" />
-        <option value="transactionrecordrepos" />
-        <option value="package:mine TransactionRecordRepository" />
-        <option value="package:mine TestnetPreferences" />
-        <option value="TestnetPreferences" />
       </list>
     </option>
   </component>
