@@ -3,10 +3,10 @@
     <option name="mostRecentlyUsed" value="package:mine pairaddress" />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="package:mine pairaddress" />
         <option value="package:mine pairAddress" />
         <option value="package:mine bestTradeExactIn" />
-        <option value="is:crash " />
         <option value="package:mine BankNotificationListenerService " />
         <option value="package:mine BankNotificationListenerService" />
         <option value="tag:TransactionAdapterManager " />
