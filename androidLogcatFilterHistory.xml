@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine isInMultiWindowMode" />
+    <option name="mostRecentlyUsed" value="package:mine exception" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine exception" />
         <option value="package:mine pairaddress" />
         <option value="package:mine isInMultiWindowMode" />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
-        <option value="package:mine exception" />
         <option value="package:mine BankNotificationListenerService " />
         <option value="is:crash " />
         <option value="package:mine pairAddress" />
