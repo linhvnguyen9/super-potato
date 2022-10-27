@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine exception" />
+    <option name="mostRecentlyUsed" value="package:mine saving transaction" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine saving transaction" />
         <option value="package:mine exception" />
         <option value="onNotificationPosted" />
         <option value="notificationparser" />
@@ -22,7 +23,6 @@
         <option value="tag:TransactionAdapterManager  " />
         <option value="tag:TransactionAdapterManager getAdapter" />
         <option value="tag:TransactionRecordRepository setwallets" />
-        <option value="TransactionRecordRepository" />
       </list>
     </option>
   </component>
