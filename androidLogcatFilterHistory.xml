@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine isInMultiWindowMode" />
+    <option name="mostRecentlyUsed" value="package:mine exception" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine exception" />
+        <option value="onNotificationPosted" />
+        <option value="notificationparser" />
+        <option value="package:mine  " />
         <option value="package:mine isInMultiWindowMode" />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
-        <option value="package:mine exception" />
         <option value="package:mine BankNotificationListenerService " />
         <option value="is:crash " />
         <option value="package:mine pairaddress" />
@@ -20,9 +23,6 @@
         <option value="tag:TransactionAdapterManager getAdapter" />
         <option value="tag:TransactionRecordRepository setwallets" />
         <option value="TransactionRecordRepository" />
-        <option value="exception" />
-        <option value="package:mine key size" />
-        <option value="package:mine key stize" />
       </list>
     </option>
   </component>
