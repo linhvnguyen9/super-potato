@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine okhttp" />
+    <option name="mostRecentlyUsed" value="package:mine isInMultiWindowMode" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine isInMultiWindowMode" />
+        <option value="package:mine " />
         <option value="package:mine okhttp" />
         <option value="package:mine exception" />
         <option value="package:mine BankNotificationListenerService " />
@@ -21,8 +23,6 @@
         <option value="exception" />
         <option value="package:mine key size" />
         <option value="package:mine key stize" />
-        <option value="package:mine " />
-        <option value="package:mine is:crash" />
       </list>
     </option>
   </component>
