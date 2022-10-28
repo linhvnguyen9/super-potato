@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine saving transaction" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
+        <option value="package:mine isInMultiWindowMode" />
         <option value="package:mine saving transaction" />
         <option value="package:mine exception" />
         <option value="onNotificationPosted" />
         <option value="notificationparser" />
         <option value="package:mine  " />
-        <option value="package:mine isInMultiWindowMode" />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
         <option value="package:mine BankNotificationListenerService " />
@@ -22,7 +23,6 @@
         <option value="tag:TransactionAdapterManager adaptersReadyObservable" />
         <option value="tag:TransactionAdapterManager  " />
         <option value="tag:TransactionAdapterManager getAdapter" />
-        <option value="tag:TransactionRecordRepository setwallets" />
       </list>
     </option>
   </component>
