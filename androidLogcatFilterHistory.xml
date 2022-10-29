@@ -1,13 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine pairaddress" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="is:crash " />
+        <option value="package:mine 0x71753D0586ea6B979DfccBb492A45e611e0e0ad6" />
+        <option value="package:mine " />
+        <option value="package:mine okhttp" />
+        <option value="package:mine NodeApiProvider" />
+        <option value="package:mine" />
+        <option value="package:mine approve" />
         <option value="package:mine pairaddress" />
+        <option value="package:mine exception" />
+        <option value="package:mine isInMultiWindowMode" />
+        <option value="package:mine BankNotificationListenerService " />
+        <option value="is:crash " />
         <option value="package:mine pairAddress" />
         <option value="package:mine bestTradeExactIn" />
-        <option value="package:mine BankNotificationListenerService " />
         <option value="package:mine BankNotificationListenerService" />
         <option value="tag:TransactionAdapterManager " />
         <option value="tag:TransactionAdapterManager initAdapters" />
@@ -15,14 +23,6 @@
         <option value="tag:TransactionAdapterManager  " />
         <option value="tag:TransactionAdapterManager getAdapter" />
         <option value="tag:TransactionRecordRepository setwallets" />
-        <option value="TransactionRecordRepository" />
-        <option value="exception" />
-        <option value="package:mine key size" />
-        <option value="package:mine key stize" />
-        <option value="package:mine " />
-        <option value="package:mine is:crash" />
-        <option value="package:mine is:crash " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
