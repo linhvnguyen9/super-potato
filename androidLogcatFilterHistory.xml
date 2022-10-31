@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MainViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine DataProvider" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DataProvider" />
         <option value="package:mine MainViewModel" />
         <option value="package:mine NodeApiProvider" />
         <option value="AddTokenService" />
@@ -22,7 +23,6 @@
         <option value="tag:TransactionAdapterManager " />
         <option value="tag:TransactionAdapterManager initAdapters" />
         <option value="tag:TransactionAdapterManager adaptersReadyObservable" />
-        <option value="tag:TransactionAdapterManager  " />
       </list>
     </option>
   </component>
