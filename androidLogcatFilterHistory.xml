@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="AddTokenService" />
     <option name="nonFavorites">
       <list>
         <option value="AddTokenService" />
+        <option value="customCoin" />
+        <option value="AddEvmTokenBlockchainService" />
         <option value="package:mine " />
         <option value="package:mine gas limit" />
         <option value="package:mine error" />
@@ -20,8 +23,6 @@
         <option value="package:mine isInMultiWindowMode" />
         <option value="package:mine BankNotificationListenerService " />
         <option value="is:crash " />
-        <option value="package:mine pairAddress" />
-        <option value="package:mine bestTradeExactIn" />
       </list>
     </option>
   </component>
