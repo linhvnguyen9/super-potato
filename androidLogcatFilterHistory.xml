@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DataProvider" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine gas limit" />
+        <option value="package:mine error" />
+        <option value="package:mine tradeExactIn" />
         <option value="package:mine DataProvider" />
         <option value="package:mine BalanceManager" />
-        <option value="package:mine " />
         <option value="package:mine okhttp" />
         <option value="package:mine MainViewModel" />
         <option value="package:mine NodeApiProvider" />
@@ -20,9 +22,6 @@
         <option value="is:crash " />
         <option value="package:mine pairAddress" />
         <option value="package:mine bestTradeExactIn" />
-        <option value="package:mine BankNotificationListenerService" />
-        <option value="tag:TransactionAdapterManager " />
-        <option value="tag:TransactionAdapterManager initAdapters" />
       </list>
     </option>
   </component>
