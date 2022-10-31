@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
         <option value="package:mine " />
         <option value="package:mine exception" />
         <option value="package:mine ParseNotificationUseCase" />
@@ -22,7 +23,6 @@
         <option value="tag:TransactionAdapterManager " />
         <option value="tag:TransactionAdapterManager initAdapters" />
         <option value="tag:TransactionAdapterManager adaptersReadyObservable" />
-        <option value="tag:TransactionAdapterManager  " />
       </list>
     </option>
   </component>
