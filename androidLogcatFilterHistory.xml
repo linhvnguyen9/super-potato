@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="AddTokenService" />
         <option value="package:mine " />
         <option value="package:mine gas limit" />
         <option value="package:mine error" />
@@ -11,7 +12,6 @@
         <option value="package:mine okhttp" />
         <option value="package:mine MainViewModel" />
         <option value="package:mine NodeApiProvider" />
-        <option value="AddTokenService" />
         <option value="package:mine 0x71753D0586ea6B979DfccBb492A45e611e0e0ad6" />
         <option value="package:mine" />
         <option value="package:mine approve" />
