@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onNotificationRemoved" />
+    <option name="mostRecentlyUsed" value="ParseNotificationUseCase" />
     <option name="nonFavorites">
       <list>
+        <option value="ParseNotificationUseCase" />
         <option value="onNotificationRemoved" />
         <option value="onnotification" />
         <option value="techcombank" />
@@ -22,7 +23,6 @@
         <option value="package:mine BankNotificationListenerService " />
         <option value="is:crash " />
         <option value="package:mine pairAddress" />
-        <option value="package:mine bestTradeExactIn" />
       </list>
     </option>
   </component>
