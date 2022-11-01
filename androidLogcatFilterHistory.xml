@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="okhttp" />
         <option value="package:mine " />
+        <option value="okhttp" />
         <option value="package:mine exception" />
         <option value="package:mine ParseNotificationUseCase" />
         <option value="package:mine onNotificationPosted" />
