@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="techcombank" />
+    <option name="mostRecentlyUsed" value="onNotificationRemoved" />
     <option name="nonFavorites">
       <list>
+        <option value="onNotificationRemoved" />
+        <option value="onnotification" />
         <option value="techcombank" />
         <option value="notificationposted" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="is:crash " />
         <option value="package:mine pairAddress" />
         <option value="package:mine bestTradeExactIn" />
-        <option value="package:mine BankNotificationListenerService" />
-        <option value="tag:TransactionAdapterManager " />
       </list>
     </option>
   </component>
