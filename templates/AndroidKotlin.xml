@@ -11,4 +11,64 @@
       <option name="KOTLIN_EXPRESSION" value="true" />
     </context>
   </template>
+  <template name="cssp" value="start.linkTo(parent.start)" description="Jetpack Compose ConstraintLayout constraint start to start of parent" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="ceep" value="end.linkTo(parent.end)" description="Jetpack Compose ConstraintLayout constraint end to end of parent" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="cttp" value="top.linkTo(parent.top)" description="Jetpack Compose ConstraintLayout constraint top to top of parent" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="cbbp" value="bottom.linkTo(parent.bottom)" description="Jetpack Compose ConstraintLayout constraint bottom to bottom of parent" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="ce" value="end.linkTo($REF$)" description="Jetpack Compose ConstraintLayout constraint end to some ref" toReformat="false" toShortenFQNames="true">
+    <variable name="REF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="cs" value="start.linkTo($REF$)" description="Jetpack Compose ConstraintLayout constraint start to some ref" toReformat="false" toShortenFQNames="true">
+    <variable name="REF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="cb" value="bottom.linkTo($REF$)" description="Jetpack Compose ConstraintLayout constraint bottom to some ref" toReformat="false" toShortenFQNames="true">
+    <variable name="REF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+  <template name="ct" value="top.linkTo($REF$)" description="Jetpack Compose ConstraintLayout constraint top to some ref" toReformat="false" toShortenFQNames="true">
+    <variable name="REF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
 </templateSet>
