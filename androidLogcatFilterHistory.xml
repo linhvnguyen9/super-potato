@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine exception" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine exception" />
         <option value="TechcombankNotificationParser" />
         <option value="ParseNotificationUseCase" />
@@ -10,7 +11,6 @@
         <option value="onnotification" />
         <option value="techcombank" />
         <option value="notificationposted" />
-        <option value="package:mine " />
         <option value="okhttp" />
         <option value="package:mine ParseNotificationUseCase" />
         <option value="package:mine onNotificationPosted" />
