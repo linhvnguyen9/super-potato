@@ -4,13 +4,13 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine exception" />
+        <option value="package:mine " />
         <option value="TechcombankNotificationParser" />
         <option value="ParseNotificationUseCase" />
         <option value="onNotificationRemoved" />
         <option value="onnotification" />
         <option value="techcombank" />
         <option value="notificationposted" />
-        <option value="package:mine " />
         <option value="okhttp" />
         <option value="package:mine ParseNotificationUseCase" />
         <option value="package:mine onNotificationPosted" />
