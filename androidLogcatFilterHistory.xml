@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash package:mine " />
+    <option name="mostRecentlyUsed" value="banknotification" />
     <option name="nonFavorites">
       <list>
+        <option value="banknotification" />
+        <option value="notification" />
         <option value="is:crash package:mine " />
         <option value="AddTokenService" />
         <option value="package:mine exception" />
@@ -21,8 +23,6 @@
         <option value="package:mine NodeApiProvider" />
         <option value="package:mine" />
         <option value="package:mine approve" />
-        <option value="package:mine pairaddress" />
-        <option value="package:mine isInMultiWindowMode" />
       </list>
     </option>
   </component>
