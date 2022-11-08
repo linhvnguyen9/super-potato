@@ -4,12 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine is:crash " />
+        <option value="package:mine " />
         <option value="banknotification" />
         <option value="notification" />
         <option value="is:crash package:mine " />
         <option value="AddTokenService" />
         <option value="package:mine exception" />
-        <option value="package:mine " />
         <option value="TechcombankNotificationParser" />
         <option value="ParseNotificationUseCase" />
         <option value="onNotificationRemoved" />
