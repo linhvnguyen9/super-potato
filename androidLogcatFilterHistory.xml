@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine sync" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
         <option value="package:mine sync" />
         <option value="package:mine exception" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine approve" />
         <option value="package:mine pairaddress" />
         <option value="package:mine isInMultiWindowMode" />
-        <option value="package:mine BankNotificationListenerService " />
       </list>
     </option>
   </component>
