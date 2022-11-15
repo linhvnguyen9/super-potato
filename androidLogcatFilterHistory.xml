@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine swap" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine swap" />
+        <option value="package:mine gasPriceData" />
         <option value="package:mine " />
         <option value="package:mine getswap" />
         <option value="package:mine GetSwapTransactionUseCase" />
@@ -20,8 +23,6 @@
         <option value="okhttp" />
         <option value="package:mine ParseNotificationUseCase" />
         <option value="package:mine onNotificationPosted" />
-        <option value="package:mine 0x71753D0586ea6B979DfccBb492A45e611e0e0ad6" />
-        <option value="package:mine okhttp" />
       </list>
     </option>
   </component>
