@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine getswap" />
         <option value="package:mine GetSwapTransactionUseCase" />
         <option value="package:mine get" />
         <option value="package:mine swapviewModel" />
-        <option value="package:mine " />
         <option value="bank" />
         <option value="package:mine banknotification" />
         <option value="package:mine sync" />
@@ -22,7 +22,6 @@
         <option value="package:mine onNotificationPosted" />
         <option value="package:mine 0x71753D0586ea6B979DfccBb492A45e611e0e0ad6" />
         <option value="package:mine okhttp" />
-        <option value="package:mine NodeApiProvider" />
       </list>
     </option>
   </component>
