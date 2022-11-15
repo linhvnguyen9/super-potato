@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="bank" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="bank" />
         <option value="package:mine banknotification" />
         <option value="package:mine sync" />
         <option value="package:mine exception" />
-        <option value="package:mine " />
         <option value="TechcombankNotificationParser" />
         <option value="ParseNotificationUseCase" />
         <option value="onNotificationRemoved" />
