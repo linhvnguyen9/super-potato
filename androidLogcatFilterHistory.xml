@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ParseNotificationUseCase" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash" />
     <option name="nonFavorites">
       <list>
-        <option value="ParseNotificationUseCase" />
-        <option value="exception" />
+        <option value="package:mine is:crash" />
+        <option value="package:mine swap" />
+        <option value="package:mine gasPriceData" />
+        <option value="package:mine " />
+        <option value="package:mine getswap" />
+        <option value="package:mine GetSwapTransactionUseCase" />
+        <option value="package:mine get" />
+        <option value="package:mine swapviewModel" />
         <option value="bank" />
         <option value="package:mine banknotification" />
         <option value="package:mine sync" />
         <option value="package:mine exception" />
-        <option value="package:mine " />
         <option value="TechcombankNotificationParser" />
+        <option value="ParseNotificationUseCase" />
         <option value="onNotificationRemoved" />
         <option value="onnotification" />
         <option value="techcombank" />
         <option value="notificationposted" />
         <option value="okhttp" />
         <option value="package:mine ParseNotificationUseCase" />
-        <option value="package:mine onNotificationPosted" />
-        <option value="package:mine 0x71753D0586ea6B979DfccBb492A45e611e0e0ad6" />
-        <option value="package:mine okhttp" />
-        <option value="package:mine NodeApiProvider" />
-        <option value="package:mine" />
-        <option value="package:mine approve" />
       </list>
     </option>
   </component>
