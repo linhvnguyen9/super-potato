@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash" />
+    <option name="mostRecentlyUsed" value="swapviewmodel" />
     <option name="nonFavorites">
       <list>
+        <option value="swapviewmodel" />
+        <option value="package:mine " />
         <option value="package:mine is:crash" />
         <option value="package:mine swap" />
         <option value="package:mine gasPriceData" />
-        <option value="package:mine " />
         <option value="package:mine getswap" />
         <option value="package:mine GetSwapTransactionUseCase" />
         <option value="package:mine get" />
@@ -22,7 +23,6 @@
         <option value="techcombank" />
         <option value="notificationposted" />
         <option value="okhttp" />
-        <option value="package:mine ParseNotificationUseCase" />
       </list>
     </option>
   </component>
