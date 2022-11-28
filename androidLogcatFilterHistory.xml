@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine exception" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="swapviewmodel" />
-        <option value="package:mine exception" />
         <option value="exception" />
         <option value="package:mine " />
+        <option value="package:mine exception" />
+        <option value="swapviewmodel" />
         <option value="package:mine is:crash" />
         <option value="package:mine swap" />
         <option value="package:mine gasPriceData" />
