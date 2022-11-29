@@ -22,4 +22,13 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="sofi" value="suspend operator fun invoke($ARG$: $ARG_TYPE$): $RETURN_TYPE$ " description="Suspend operator fun invoke()" toReformat="false" toShortenFQNames="true">
+    <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RETURN_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
