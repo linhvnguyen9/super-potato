@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="swapviewmodel" />
     <option name="nonFavorites">
       <list>
+        <option value="swapviewmodel" />
         <option value="swapview " />
         <option value="is:crash " />
         <option value="allowance" />
-        <option value="swapviewmodel" />
         <option value="exception" />
         <option value="package:mine " />
         <option value="package:mine exception" />
