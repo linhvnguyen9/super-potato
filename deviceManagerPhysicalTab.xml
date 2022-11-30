@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="QV7040ZH1B" />
+            <value value="192.168.1.200:5555" />
           </Key>
         </key>
         <name value="Sony H8296" />
@@ -16,7 +16,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.200:5555" />
+            <value value="QV7040ZH1B" />
           </Key>
         </key>
         <name value="Sony H8296" />
