@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="exception" />
+    <option name="mostRecentlyUsed" value="formatAmount" />
     <option name="nonFavorites">
       <list>
+        <option value="formatAmount" />
         <option value="exception" />
         <option value="swapviewmodel" />
         <option value="swapview " />
@@ -22,7 +23,6 @@
         <option value="package:mine sync" />
         <option value="TechcombankNotificationParser" />
         <option value="ParseNotificationUseCase" />
-        <option value="onNotificationRemoved" />
       </list>
     </option>
   </component>
