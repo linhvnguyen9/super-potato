@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine exception" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine exception" />
         <option value="package:mine selected" />
         <option value="selected account" />
@@ -22,7 +23,6 @@
         <option value="package:mine swapviewModel" />
         <option value="bank" />
         <option value="package:mine banknotification" />
-        <option value="package:mine sync" />
       </list>
     </option>
   </component>
