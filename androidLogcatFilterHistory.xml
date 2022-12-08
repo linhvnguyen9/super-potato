@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine showing delete" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine init" />
         <option value="package:mine showing delete" />
         <option value="QuickSelectTokenButton" />
         <option value="is:crash " />
@@ -14,7 +16,6 @@
         <option value="swapviewmodel" />
         <option value="swapview " />
         <option value="allowance" />
-        <option value="package:mine " />
         <option value="package:mine is:crash" />
         <option value="package:mine swap" />
         <option value="package:mine gasPriceData" />
@@ -22,7 +23,6 @@
         <option value="package:mine GetSwapTransactionUseCase" />
         <option value="package:mine get" />
         <option value="package:mine swapviewModel" />
-        <option value="bank" />
       </list>
     </option>
   </component>
