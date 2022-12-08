@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="QuickSelectTokenButton" />
+    <option name="mostRecentlyUsed" value="package:mine showing delete" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine showing delete" />
         <option value="QuickSelectTokenButton" />
         <option value="is:crash " />
         <option value="package:mine exception" />
@@ -22,7 +23,6 @@
         <option value="package:mine get" />
         <option value="package:mine swapviewModel" />
         <option value="bank" />
-        <option value="package:mine banknotification" />
       </list>
     </option>
   </component>
