@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine exception" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine exception" />
         <option value="package:mine " />
         <option value="package:mine init" />
         <option value="package:mine showing delete" />
         <option value="QuickSelectTokenButton" />
         <option value="is:crash " />
-        <option value="package:mine exception" />
         <option value="package:mine selected" />
         <option value="selected account" />
         <option value="exception" />
