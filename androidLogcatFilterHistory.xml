@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine showing" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
         <option value="package:mine showing" />
         <option value="package:mine swapviewmodel" />
-        <option value="package:mine is:crash " />
         <option value="NodeApiProvider error output" />
         <option value="swapviewmodel package:mine " />
         <option value="is:crash package:mine " />
