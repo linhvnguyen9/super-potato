@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="swapviewmodel package:mine " />
+    <option name="mostRecentlyUsed" value="NodeApiProvider error output" />
     <option name="nonFavorites">
       <list>
+        <option value="NodeApiProvider error output" />
         <option value="swapviewmodel package:mine " />
         <option value="is:crash package:mine " />
         <option value="gaspricedata" />
@@ -22,7 +23,6 @@
         <option value="package:mine swap" />
         <option value="package:mine gasPriceData" />
         <option value="package:mine getswap" />
-        <option value="package:mine GetSwapTransactionUseCase" />
       </list>
     </option>
   </component>
