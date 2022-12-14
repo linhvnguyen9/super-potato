@@ -5,8 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ViewModel.kt" />
     <mask>*.kt</mask>
-    <mask>*ViewModel.kt</mask>
     <mask>colors.xml</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Module1.kt</mask>
@@ -15,5 +15,6 @@
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*Activity.kt</mask>
+    <mask>*ViewModel.kt</mask>
   </component>
 </application>
