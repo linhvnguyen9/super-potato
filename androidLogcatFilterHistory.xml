@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="GetTransactionsUseCase" />
     <option name="nonFavorites">
       <list>
+        <option value="GetTransactionsUseCase" />
         <option value="package:mine is:crash " />
         <option value="package:mine showing" />
         <option value="package:mine swapviewmodel" />
@@ -22,7 +23,6 @@
         <option value="swapview " />
         <option value="allowance" />
         <option value="package:mine " />
-        <option value="package:mine is:crash" />
       </list>
     </option>
   </component>
