@@ -1,11 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="exception" />
     <option name="nonFavorites">
       <list>
+        <option value="exception" />
+        <option value="package:mine " />
+        <option value="package:mine exception" />
+        <option value="package:mine click policies from " />
+        <option value="exception package:mine " />
+        <option value="package:mine hail feature detail" />
         <option value="package:mine is:crash " />
-        <option value="package:mine" />
-        <option value="package:mine new swap data" />
         <option value="package:mine showing" />
         <option value="package:mine swapviewmodel" />
         <option value="NodeApiProvider error output" />
@@ -15,14 +19,10 @@
         <option value="package:mine showing delete" />
         <option value="QuickSelectTokenButton" />
         <option value="is:crash " />
-        <option value="package:mine exception" />
         <option value="package:mine selected" />
         <option value="selected account" />
-        <option value="exception" />
         <option value="formatAmount" />
         <option value="swapviewmodel" />
-        <option value="swapview " />
-        <option value="allowance" />
       </list>
     </option>
   </component>
