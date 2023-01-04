@@ -15,5 +15,6 @@
     <mask>*.xml</mask>
     <mask>*Activity.kt</mask>
     <mask>*ViewModel.kt</mask>
+    <mask>strings.xml</mask>
   </component>
 </application>
