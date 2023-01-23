@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
+        <option value="package:mine relay" />
+        <option value="is:crash " />
         <option value="com.google." />
         <option value="package:mine " />
-        <option value="package:mine is:crash " />
         <option value="exception" />
         <option value="current page" />
         <option value="package:mine exception" />
@@ -20,9 +22,7 @@
         <option value="gaspricedata" />
         <option value="package:mine showing delete" />
         <option value="QuickSelectTokenButton" />
-        <option value="is:crash " />
         <option value="package:mine selected" />
-        <option value="selected account" />
       </list>
     </option>
   </component>
