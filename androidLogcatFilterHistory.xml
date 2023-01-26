@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine tag:DoughnutChartWithLabel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DoughnutChartWithLabel " />
         <option value="package:mine is:crash " />
         <option value="package:mine relay" />
         <option value="is:crash " />
@@ -22,7 +23,6 @@
         <option value="gaspricedata" />
         <option value="package:mine showing delete" />
         <option value="QuickSelectTokenButton" />
-        <option value="package:mine selected" />
       </list>
     </option>
   </component>
