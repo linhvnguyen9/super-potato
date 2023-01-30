@@ -1,16 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DoughnutChart " />
+    <option name="mostRecentlyUsed" value="package:mine tag:IncomeExpenseSubcategorySummaryKt " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:IncomeExpenseSubcategorySummaryKt " />
+        <option value="package:mine tag:CashFlowDetailsViewModel" />
+        <option value="package:mine " />
+        <option value="package:mine need" />
+        <option value="package:mine is:crash " />
+        <option value="package:mine formatPercentage" />
         <option value="package:mine tag:DoughnutChart " />
         <option value="exception" />
         <option value="package:mine tag:DoughnutChartWithLabel " />
-        <option value="package:mine is:crash " />
         <option value="package:mine relay" />
         <option value="is:crash " />
         <option value="com.google." />
-        <option value="package:mine " />
         <option value="current page" />
         <option value="package:mine exception" />
         <option value="package:mine click policies from " />
@@ -19,10 +23,6 @@
         <option value="package:mine showing" />
         <option value="package:mine swapviewmodel" />
         <option value="NodeApiProvider error output" />
-        <option value="swapviewmodel package:mine " />
-        <option value="is:crash package:mine " />
-        <option value="gaspricedata" />
-        <option value="package:mine showing delete" />
       </list>
     </option>
   </component>
