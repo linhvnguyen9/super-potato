@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="onNotificationPosted" />
     <option name="nonFavorites">
       <list>
+        <option value="onNotificationPosted" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine is:crash " />
@@ -21,7 +23,6 @@
         <option value="current page" />
         <option value="package:mine exception" />
         <option value="package:mine click policies from " />
-        <option value="exception package:mine " />
       </list>
     </option>
   </component>
