@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="exception" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="exception" />
         <option value="notification" />
         <option value="orca" />
@@ -20,7 +21,6 @@
         <option value="package:mine tag:DoughnutChart " />
         <option value="package:mine tag:DoughnutChartWithLabel " />
         <option value="package:mine relay" />
-        <option value="is:crash " />
         <option value="com.google." />
         <option value="current page" />
       </list>
