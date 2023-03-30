@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:FlightFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FlightFragment " />
         <option value="tag:FlightFragment" />
         <option value="is:crash " />
         <option value="flightfragment" />
@@ -22,7 +23,6 @@
         <option value="package:mine formatPercentage" />
         <option value="package:mine tag:DoughnutChart " />
         <option value="package:mine tag:DoughnutChartWithLabel " />
-        <option value="package:mine relay" />
       </list>
     </option>
   </component>
