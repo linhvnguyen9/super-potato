@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FlightFragment" />
         <option value="is:crash " />
         <option value="flightfragment" />
         <option value="exception" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:DoughnutChart " />
         <option value="package:mine tag:DoughnutChartWithLabel " />
         <option value="package:mine relay" />
-        <option value="com.google." />
       </list>
     </option>
   </component>
