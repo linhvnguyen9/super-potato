@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ScootUtils  " />
+    <option name="mostRecentlyUsed" value="tag:FlightFragment " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:ScootUtils  " />
         <option value="tag:FlightFragment " />
         <option value="is:crash " />
+        <option value="tag:ScootUtils  " />
         <option value="tag:FlightFragment" />
         <option value="flightfragment" />
         <option value="exception" />
