@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
         <option value="is:crash " />
         <option value="tag:FlightFragment " />
         <option value="tag:ScootUtils  " />
@@ -11,7 +12,6 @@
         <option value="exception" />
         <option value="notification" />
         <option value="orca" />
-        <option value="package:mine is:crash " />
         <option value="onNotificationPosted" />
         <option value="package:mine " />
         <option value="package:mine" />
