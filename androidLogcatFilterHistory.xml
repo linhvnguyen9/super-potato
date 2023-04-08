@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="result " />
     <option name="nonFavorites">
       <list>
+        <option value="result " />
+        <option value="people " />
+        <option value="package:mine tag:MainActivity " />
         <option value="package:mine" />
         <option value="package:mine is:crash " />
         <option value="is:crash " />
@@ -20,9 +23,6 @@
         <option value="package:mine is:crash" />
         <option value="package:mine tag:IncomeExpenseSubcategorySummaryKt " />
         <option value="package:mine tag:CashFlowDetailsViewModel" />
-        <option value="package:mine need" />
-        <option value="package:mine formatPercentage" />
-        <option value="package:mine tag:DoughnutChart " />
       </list>
     </option>
   </component>
