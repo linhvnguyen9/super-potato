@@ -210,6 +210,10 @@
           <option name="url" value="git@github.com:truongnguyenptit/codeviewer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:trainingdeveloperpro/mangala-wallet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
