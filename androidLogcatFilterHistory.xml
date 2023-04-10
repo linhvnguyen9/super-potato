@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="orca title Thành phố hoa cải 1/5: " />
     <option name="nonFavorites">
       <list>
+        <option value="orca title Thành phố hoa cải 1/5: " />
+        <option value="notification" />
         <option value="package:mine " />
         <option value="is:crash " />
         <option value="result " />
@@ -14,14 +17,12 @@
         <option value="tag:FlightFragment" />
         <option value="flightfragment" />
         <option value="exception" />
-        <option value="notification" />
         <option value="orca" />
         <option value="onNotificationPosted" />
         <option value="package:mine TestStartedService" />
         <option value="package:mine is" />
         <option value="package:mine is:crash" />
         <option value="package:mine tag:IncomeExpenseSubcategorySummaryKt " />
-        <option value="package:mine tag:CashFlowDetailsViewModel" />
       </list>
     </option>
   </component>
