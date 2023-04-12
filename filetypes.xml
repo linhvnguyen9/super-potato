@@ -10,6 +10,7 @@
       <mapping pattern="GetAllStreamsResponse" type="PLAIN_TEXT" />
       <mapping pattern="GetAllStreamsLargeResponse" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="LastStreamAndTopicInfo" type="Properties" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
