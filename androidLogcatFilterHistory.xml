@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="orca" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="orca" />
         <option value="title" />
-        <option value="is:crash " />
         <option value="orca title " />
         <option value="orca title Thành phố hoa cải 1/5: " />
         <option value="notification" />
