@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="is:crash " />
+        <option value="app" />
         <option value="orca" />
         <option value="title" />
         <option value="orca title " />
@@ -22,7 +23,6 @@
         <option value="exception" />
         <option value="onNotificationPosted" />
         <option value="package:mine TestStartedService" />
-        <option value="package:mine is" />
       </list>
     </option>
   </component>
