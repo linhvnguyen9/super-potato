@@ -3,8 +3,9 @@
     <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
-        <option value="app" />
         <option value="is:crash " />
+        <option value="is:" />
+        <option value="app" />
         <option value="orca" />
         <option value="title" />
         <option value="orca title " />
@@ -22,7 +23,6 @@
         <option value="flightfragment" />
         <option value="exception" />
         <option value="onNotificationPosted" />
-        <option value="package:mine TestStartedService" />
       </list>
     </option>
   </component>
