@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="is:crash " />
         <option value="is:" />
         <option value="app" />
@@ -11,7 +11,6 @@
         <option value="orca title " />
         <option value="orca title Thành phố hoa cải 1/5: " />
         <option value="notification" />
-        <option value="package:mine " />
         <option value="result " />
         <option value="people " />
         <option value="package:mine tag:MainActivity " />
