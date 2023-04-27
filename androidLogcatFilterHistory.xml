@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ManageWalletsService " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="https://api-dev.blocksdecoded.com" />
+        <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator tag:EvmAccountManager" />
+        <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator" />
+        <option value="package:mine tag:WalletManager tag:ManageWalletsService " />
+        <option value="package:mine tag:WalletManager " />
         <option value="package:mine tag:ManageWalletsService " />
         <option value="package:mine " />
         <option value="is:crash " />
@@ -18,11 +23,6 @@
         <option value="package:mine tag:MainActivity " />
         <option value="package:mine" />
         <option value="package:mine is:crash " />
-        <option value="tag:FlightFragment " />
-        <option value="tag:ScootUtils  " />
-        <option value="tag:FlightFragment" />
-        <option value="flightfragment" />
-        <option value="exception" />
       </list>
     </option>
   </component>
