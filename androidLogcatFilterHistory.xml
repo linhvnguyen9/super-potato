@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:ManageWalletsService " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ManageWalletsService " />
         <option value="package:mine " />
         <option value="is:crash " />
         <option value="is:" />
@@ -21,7 +23,6 @@
         <option value="tag:FlightFragment" />
         <option value="flightfragment" />
         <option value="exception" />
-        <option value="onNotificationPosted" />
       </list>
     </option>
   </component>
