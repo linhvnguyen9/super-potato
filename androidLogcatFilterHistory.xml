@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="orca" />
         <option value="is:crash " />
         <option value="https://api-dev.blocksdecoded.com" />
         <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator tag:EvmAccountManager" />
@@ -13,7 +14,6 @@
         <option value="package:mine " />
         <option value="is:" />
         <option value="app" />
-        <option value="orca" />
         <option value="title" />
         <option value="orca title " />
         <option value="orca title Thành phố hoa cải 1/5: " />
