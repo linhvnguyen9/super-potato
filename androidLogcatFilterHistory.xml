@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="dynatrace" />
         <option value="orca" />
         <option value="is:crash " />
         <option value="https://api-dev.blocksdecoded.com" />
@@ -22,7 +23,6 @@
         <option value="people " />
         <option value="package:mine tag:MainActivity " />
         <option value="package:mine" />
-        <option value="package:mine is:crash " />
       </list>
     </option>
   </component>
