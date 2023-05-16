@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="token" />
+    <option name="mostRecentlyUsed" value="get pnl" />
     <option name="nonFavorites">
       <list>
+        <option value="get pnl" />
         <option value="token" />
         <option value="dynatrace" />
         <option value="orca" />
@@ -22,7 +23,6 @@
         <option value="notification" />
         <option value="result " />
         <option value="people " />
-        <option value="package:mine tag:MainActivity " />
       </list>
     </option>
   </component>
