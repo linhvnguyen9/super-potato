@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="fetchAirportList" />
     <option name="nonFavorites">
       <list>
+        <option value="fetchAirportList" />
         <option value="is:crash " />
         <option value="get pnl" />
         <option value="token" />
@@ -22,7 +23,6 @@
         <option value="orca title Thành phố hoa cải 1/5: " />
         <option value="notification" />
         <option value="result " />
-        <option value="people " />
       </list>
     </option>
   </component>
