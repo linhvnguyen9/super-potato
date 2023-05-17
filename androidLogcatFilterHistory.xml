@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="get pnl" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="get pnl" />
         <option value="token" />
         <option value="dynatrace" />
         <option value="orca" />
-        <option value="is:crash " />
         <option value="https://api-dev.blocksdecoded.com" />
         <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator tag:EvmAccountManager" />
         <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator" />
