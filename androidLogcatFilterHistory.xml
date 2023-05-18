@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fetchAirportList" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
-        <option value="fetchAirportList" />
         <option value="is:crash " />
+        <option value="fetchAirportList" />
         <option value="get pnl" />
         <option value="token" />
         <option value="dynatrace" />
