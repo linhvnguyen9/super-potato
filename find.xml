@@ -14,5 +14,6 @@
     <mask>*ViewModel.kt</mask>
     <mask>*.xml</mask>
     <mask>*.kts</mask>
+    <mask>*UseCase.kt</mask>
   </component>
 </application>
