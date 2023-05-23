@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="is:crash " />
+        <option value="basedagger" />
         <option value="package:mine is:crash " />
         <option value="snackActionClearPromoCode" />
         <option value="bottom paddin" />
@@ -22,7 +23,6 @@
         <option value="is:" />
         <option value="app" />
         <option value="title" />
-        <option value="orca title " />
       </list>
     </option>
   </component>
