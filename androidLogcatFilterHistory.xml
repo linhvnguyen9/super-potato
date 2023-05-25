@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="pageindex" />
     <option name="nonFavorites">
       <list>
+        <option value="pageindex" />
         <option value="is:crash " />
         <option value="basedaggeract" />
         <option value="basedagger" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:ManageWalletsService " />
         <option value="package:mine " />
         <option value="is:" />
-        <option value="app" />
       </list>
     </option>
   </component>
