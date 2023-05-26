@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash" />
+    <option name="mostRecentlyUsed" value="page " />
     <option name="nonFavorites">
       <list>
+        <option value="page " />
         <option value="is:crash" />
         <option value="page change" />
         <option value="is:crash " />
@@ -22,7 +23,6 @@
         <option value="orca" />
         <option value="https://api-dev.blocksdecoded.com" />
         <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator tag:EvmAccountManager" />
-        <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator" />
       </list>
     </option>
   </component>
