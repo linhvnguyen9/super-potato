@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="is:crash " />
         <option value="WalletMainScreenModel" />
+        <option value="page" />
+        <option value="is:crash " />
         <option value="page " />
         <option value="is:crash" />
         <option value="page change" />
@@ -22,7 +23,6 @@
         <option value="token" />
         <option value="dynatrace" />
         <option value="orca" />
-        <option value="https://api-dev.blocksdecoded.com" />
       </list>
     </option>
   </component>
