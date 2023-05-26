@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="balance" />
     <option name="nonFavorites">
       <list>
+        <option value="balance" />
+        <option value="isbalancevisible " />
+        <option value="isbalancevisible" />
         <option value="is:crash " />
         <option value="pageindex" />
         <option value="basedaggeract" />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator" />
         <option value="package:mine tag:WalletManager tag:ManageWalletsService " />
         <option value="package:mine tag:WalletManager " />
-        <option value="package:mine tag:ManageWalletsService " />
-        <option value="package:mine " />
-        <option value="is:" />
       </list>
     </option>
   </component>
