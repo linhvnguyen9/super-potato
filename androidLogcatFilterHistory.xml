@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="page " />
+    <option name="mostRecentlyUsed" value="WalletMainScreenModel" />
     <option name="nonFavorites">
       <list>
+        <option value="WalletMainScreenModel" />
         <option value="page " />
         <option value="is:crash" />
         <option value="page change" />
@@ -22,7 +23,6 @@
         <option value="dynatrace" />
         <option value="orca" />
         <option value="https://api-dev.blocksdecoded.com" />
-        <option value="package:mine tag:WalletManager tag:ManageWalletsService tag:WalletActivator tag:EvmAccountManager" />
       </list>
     </option>
   </component>
