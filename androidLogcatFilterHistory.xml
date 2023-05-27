@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="original" />
     <option name="nonFavorites">
       <list>
+        <option value="original" />
+        <option value="original value" />
         <option value="is:crash " />
         <option value="WalletMainScreenModel" />
         <option value="page" />
@@ -21,8 +23,6 @@
         <option value="fetchAirportList" />
         <option value="get pnl" />
         <option value="token" />
-        <option value="dynatrace" />
-        <option value="orca" />
       </list>
     </option>
   </component>
