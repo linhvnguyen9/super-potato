@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="percentage" />
+    <option name="mostRecentlyUsed" value="tokenmap" />
     <option name="nonFavorites">
       <list>
+        <option value="tokenmap" />
+        <option value="is:crash " />
         <option value="percentage" />
         <option value="original" />
         <option value="original value" />
-        <option value="is:crash " />
         <option value="WalletMainScreenModel" />
         <option value="page" />
         <option value="page " />
@@ -22,7 +23,6 @@
         <option value="snackActionClearPromoCode" />
         <option value="bottom paddin" />
         <option value="fetchAirportList" />
-        <option value="get pnl" />
       </list>
     </option>
   </component>
