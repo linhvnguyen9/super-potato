@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="covalen" />
+    <option name="mostRecentlyUsed" value="WalletMainScreenModel" />
     <option name="nonFavorites">
       <list>
+        <option value="WalletMainScreenModel" />
         <option value="covalen" />
         <option value="coingecko" />
         <option value="is:crash " />
@@ -12,7 +13,6 @@
         <option value="percentage" />
         <option value="original" />
         <option value="original value" />
-        <option value="WalletMainScreenModel" />
         <option value="page" />
         <option value="page " />
         <option value="is:crash" />
