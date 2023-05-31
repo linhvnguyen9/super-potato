@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="coingecko" />
     <option name="nonFavorites">
       <list>
+        <option value="coingecko" />
         <option value="is:crash " />
         <option value="is:" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="basedaggeract" />
         <option value="basedagger" />
         <option value="package:mine is:crash " />
-        <option value="snackActionClearPromoCode" />
       </list>
     </option>
   </component>
