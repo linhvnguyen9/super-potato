@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="covalen" />
     <option name="nonFavorites">
       <list>
+        <option value="covalen" />
         <option value="coingecko" />
         <option value="is:crash " />
         <option value="is:" />
@@ -22,7 +23,6 @@
         <option value="pageindex" />
         <option value="basedaggeract" />
         <option value="basedagger" />
-        <option value="package:mine is:crash " />
       </list>
     </option>
   </component>
