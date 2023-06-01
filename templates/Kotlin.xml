@@ -38,4 +38,12 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="kmmtest" value="@Test&#10;fun `Given $GIVEN$_when $WHEN$_then $THEN$`() {&#10;    $END$&#10;}" description="KMM Test - Given When Then" toReformat="false" toShortenFQNames="true">
+    <variable name="GIVEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
