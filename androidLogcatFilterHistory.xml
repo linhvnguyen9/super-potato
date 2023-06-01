@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="WalletMainScreenModel" />
+    <option name="mostRecentlyUsed" value="1991" />
     <option name="nonFavorites">
       <list>
+        <option value="1991" />
         <option value="WalletMainScreenModel" />
         <option value="covalen" />
         <option value="coingecko" />
@@ -22,7 +23,6 @@
         <option value="isbalancevisible" />
         <option value="pageindex" />
         <option value="basedaggeract" />
-        <option value="basedagger" />
       </list>
     </option>
   </component>
