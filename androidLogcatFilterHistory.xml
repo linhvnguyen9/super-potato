@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine dataloca" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine dataloca" />
         <option value="package:mine " />
         <option value="1991" />
         <option value="WalletMainScreenModel" />
@@ -21,7 +23,6 @@
         <option value="isbalancevisible " />
         <option value="isbalancevisible" />
         <option value="pageindex" />
-        <option value="basedaggeract" />
       </list>
     </option>
   </component>
