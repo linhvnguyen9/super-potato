@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine WalletMainScreenModel" />
+    <option name="mostRecentlyUsed" value="package:mine WalletMainScreen" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WalletMainScreen" />
         <option value="package:mine WalletMainScreenModel" />
         <option value="package:mine walletmainscreen" />
         <option value="package:mine is:crash " />
@@ -22,7 +23,6 @@
         <option value="original value" />
         <option value="page" />
         <option value="page " />
-        <option value="is:crash" />
       </list>
     </option>
   </component>
