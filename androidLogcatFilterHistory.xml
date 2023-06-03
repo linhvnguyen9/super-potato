@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine walletmainscreen" />
+    <option name="mostRecentlyUsed" value="package:mine 1991" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine 1991" />
+        <option value="package:mine token is" />
         <option value="package:mine walletmainscreen" />
         <option value="package:mine " />
         <option value="package:mine is:crash " />
@@ -21,8 +23,6 @@
         <option value="page " />
         <option value="is:crash" />
         <option value="page change" />
-        <option value="balance" />
-        <option value="isbalancevisible " />
       </list>
     </option>
   </component>
