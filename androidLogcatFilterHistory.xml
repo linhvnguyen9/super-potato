@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onMove" />
+    <option name="mostRecentlyUsed" value="package:mine onrearrange" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onrearrange" />
+        <option value="package:mine is:crash " />
         <option value="package:mine onMove" />
         <option value="package:mine onRearrangeItem" />
-        <option value="package:mine is:crash " />
         <option value="package:mine ManageAccountsScreen" />
         <option value="package:mine account" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="coingecko" />
         <option value="is:" />
         <option value="tokenmap" />
-        <option value="percentage" />
       </list>
     </option>
   </component>
