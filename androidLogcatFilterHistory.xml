@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine insert" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine insert" />
+        <option value="package:mine test rows" />
+        <option value="package:mine 1991 rows" />
         <option value="package:mine " />
         <option value="package:mine is:crash " />
         <option value="package:mine account" />
@@ -19,9 +23,6 @@
         <option value="1991" />
         <option value="WalletMainScreenModel" />
         <option value="covalen" />
-        <option value="coingecko" />
-        <option value="is:" />
-        <option value="tokenmap" />
       </list>
     </option>
   </component>
