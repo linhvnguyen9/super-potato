@@ -1,10 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Collection" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Collection" />
         <option value="package:mine " />
-        <option value="package:mine is:crash " />
+        <option value="package:mine collectSelectedNetwork" />
+        <option value="package:mine list of collectSelectedNetwork:" />
+        <option value="package:mine NetworkItem list:" />
+        <option value="package:mine NetworkItem:" />
+        <option value="package:mine NetworkItem" />
         <option value="is:crash " />
+        <option value="package:mine selected network" />
+        <option value="package:mine selected" />
+        <option value="package:mine networkitem" />
+        <option value="package:mine is:crash " />
         <option value="package:mine test" />
         <option value="package:mine insert" />
         <option value="package:mine test rows" />
@@ -13,15 +23,6 @@
         <option value="package:mine onrearrange" />
         <option value="package:mine onMove" />
         <option value="package:mine onRearrangeItem" />
-        <option value="package:mine ManageAccountsScreen" />
-        <option value="package:mine WalletMainScreen" />
-        <option value="package:mine WalletMainScreenModel" />
-        <option value="package:mine walletmainscreen" />
-        <option value="package:mine 1991" />
-        <option value="package:mine token is" />
-        <option value="package:mine dataloca" />
-        <option value="1991" />
-        <option value="WalletMainScreenModel" />
       </list>
     </option>
   </component>
