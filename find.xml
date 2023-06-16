@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Screen.kt" />
     <mask>*.kt</mask>
     <mask>colors.xml</mask>
     <mask>*Fragment.kt</mask>
@@ -16,5 +19,6 @@
     <mask>*.kts</mask>
     <mask>*UseCase.kt</mask>
     <mask>*Service.kt</mask>
+    <mask>*Screen.kt</mask>
   </component>
 </application>
