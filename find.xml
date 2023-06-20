@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle.kts" />
     <mask>*.kt</mask>
     <mask>colors.xml</mask>
     <mask>*Fragment.kt</mask>
@@ -19,5 +20,6 @@
     <mask>*Screen.kt</mask>
     <mask>*Repository.kt</mask>
     <mask>*DataStore.kt</mask>
+    <mask>build.gradle.kts</mask>
   </component>
 </application>
