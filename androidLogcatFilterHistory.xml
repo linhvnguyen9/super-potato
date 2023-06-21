@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine is:crash " />
         <option value="package:mine ReceiveTokenScreen" />
         <option value="package:mine okhttp" />
-        <option value="package:mine " />
         <option value="package:mine scootviewmodel" />
         <option value="package:mine currency" />
         <option value="package:mine Collection" />
