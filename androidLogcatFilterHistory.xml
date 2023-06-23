@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine ReceiveTokenPickAccountScreenModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ReceiveTokenPickAccountScreenModel" />
         <option value="package:mine is:crash " />
         <option value="package:mine " />
         <option value="package:mine ReceiveTokenScreen" />
@@ -22,7 +23,6 @@
         <option value="package:mine test" />
         <option value="package:mine insert" />
         <option value="package:mine test rows" />
-        <option value="package:mine 1991 rows" />
       </list>
     </option>
   </component>
