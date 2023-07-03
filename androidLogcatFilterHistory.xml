@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="onnotificationposted" />
         <option value="package:mine is:crash " />
         <option value="package:mine ContactsScreenModel" />
@@ -18,7 +19,6 @@
         <option value="package:mine NetworkItem list:" />
         <option value="package:mine NetworkItem:" />
         <option value="package:mine NetworkItem" />
-        <option value="is:crash " />
         <option value="package:mine selected network" />
         <option value="package:mine selected" />
         <option value="package:mine networkitem" />
