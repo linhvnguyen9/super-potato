@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine txHash" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine txHash" />
+        <option value="package:mine feeHistory" />
+        <option value="package:mine " />
         <option value="is:crash " />
         <option value="onnotificationposted" />
         <option value="package:mine is:crash " />
         <option value="package:mine ContactsScreenModel" />
         <option value="package:mine ReceiveTokenPickAccountScreenModel" />
-        <option value="package:mine " />
         <option value="package:mine ReceiveTokenScreen" />
         <option value="package:mine okhttp" />
         <option value="package:mine scootviewmodel" />
@@ -21,8 +23,6 @@
         <option value="package:mine NetworkItem" />
         <option value="package:mine selected network" />
         <option value="package:mine selected" />
-        <option value="package:mine networkitem" />
-        <option value="package:mine test" />
       </list>
     </option>
   </component>
