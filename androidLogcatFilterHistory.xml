@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="txhas" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
         <option value="is:crash " />
         <option value="txhas" />
         <option value="package:mine " />
         <option value="package:mine txHash" />
         <option value="package:mine feeHistory" />
         <option value="onnotificationposted" />
-        <option value="package:mine is:crash " />
         <option value="package:mine ContactsScreenModel" />
         <option value="package:mine ReceiveTokenPickAccountScreenModel" />
         <option value="package:mine ReceiveTokenScreen" />
