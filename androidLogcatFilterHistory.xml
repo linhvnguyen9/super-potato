@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="currencylistprovider" />
     <option name="nonFavorites">
       <list>
+        <option value="currencylistprovider" />
         <option value="package:mine is:crash " />
         <option value="is:crash " />
         <option value="txhas" />
@@ -22,7 +23,6 @@
         <option value="package:mine NetworkItem list:" />
         <option value="package:mine NetworkItem:" />
         <option value="package:mine NetworkItem" />
-        <option value="package:mine selected network" />
       </list>
     </option>
   </component>
