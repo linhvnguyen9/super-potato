@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="currencylistprovider" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="currencylistprovider" />
         <option value="package:mine is:crash " />
         <option value="is:crash " />
         <option value="txhas" />
-        <option value="package:mine " />
         <option value="package:mine txHash" />
         <option value="package:mine feeHistory" />
         <option value="onnotificationposted" />
