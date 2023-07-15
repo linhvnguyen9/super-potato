@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine is:crash " />
         <option value="package:mine clicked" />
-        <option value="package:mine " />
         <option value="currencylistprovider" />
         <option value="is:crash " />
         <option value="txhas" />
