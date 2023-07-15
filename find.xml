@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.kt</mask>
+    <option name="FILE_MASK" value="*.kt" />
     <mask>colors.xml</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Module1.kt</mask>
@@ -20,5 +20,6 @@
     <mask>*Repository.kt</mask>
     <mask>*DataStore.kt</mask>
     <mask>build.gradle.kts</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
