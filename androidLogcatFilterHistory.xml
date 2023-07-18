@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine publicKey" />
+    <option name="mostRecentlyUsed" value="package:mine is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine is:crash " />
         <option value="package:mine publicKey" />
         <option value="package:mine getSelectedWalletAccounts" />
         <option value="package:mine WalletMainScreenModel" />
@@ -12,7 +13,6 @@
         <option value="package:mine  is:crash " />
         <option value="package:mine sending " />
         <option value="package:mine 1991 " />
-        <option value="package:mine is:crash " />
         <option value="package:mine " />
         <option value="package:mine initial" />
         <option value="package:mine clicked" />
