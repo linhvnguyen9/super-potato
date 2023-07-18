@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="vibrate" />
+    <option name="mostRecentlyUsed" value="package:mine publicKey" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine publicKey" />
+        <option value="package:mine getSelectedWalletAccounts" />
+        <option value="package:mine WalletMainScreenModel" />
+        <option value="package:mine copy account" />
         <option value="vibrate" />
         <option value="package:mine  " />
         <option value="package:mine  is:crash " />
@@ -19,10 +23,6 @@
         <option value="package:mine feeHistory" />
         <option value="onnotificationposted" />
         <option value="package:mine ContactsScreenModel" />
-        <option value="package:mine ReceiveTokenPickAccountScreenModel" />
-        <option value="package:mine ReceiveTokenScreen" />
-        <option value="package:mine okhttp" />
-        <option value="package:mine scootviewmodel" />
       </list>
     </option>
   </component>
