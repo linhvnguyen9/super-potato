@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine the mapper " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine the mapper " />
         <option value="package:mine is:crash " />
         <option value="package:mine " />
         <option value="package:mine publicKey" />
@@ -22,7 +23,6 @@
         <option value="package:mine txHash" />
         <option value="package:mine feeHistory" />
         <option value="onnotificationposted" />
-        <option value="package:mine ContactsScreenModel" />
       </list>
     </option>
   </component>
