@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine is:crash " />
-        <option value="package:mine the mapper " />
         <option value="package:mine " />
+        <option value="package:mine the mapper " />
         <option value="package:mine publicKey" />
         <option value="package:mine getSelectedWalletAccounts" />
         <option value="package:mine WalletMainScreenModel" />
