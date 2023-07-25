@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine is:crash " />
+    <option name="mostRecentlyUsed" value="package:mine EffectExt" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine EffectExt" />
         <option value="package:mine is:crash " />
         <option value="package:mine " />
         <option value="package:mine the mapper " />
@@ -22,7 +23,6 @@
         <option value="txhas" />
         <option value="package:mine txHash" />
         <option value="package:mine feeHistory" />
-        <option value="onnotificationposted" />
       </list>
     </option>
   </component>
