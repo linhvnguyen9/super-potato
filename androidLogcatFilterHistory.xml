@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine 415" />
         <option value="package:mine EffectExt" />
         <option value="package:mine is:crash " />
         <option value="package:mine the mapper " />
@@ -21,7 +22,6 @@
         <option value="is:crash " />
         <option value="txhas" />
         <option value="package:mine txHash" />
-        <option value="package:mine feeHistory" />
       </list>
     </option>
   </component>
