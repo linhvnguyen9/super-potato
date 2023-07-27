@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
+        <option value="package:mine is:crash " />
         <option value="package:mine " />
         <option value="package:mine 415" />
         <option value="package:mine EffectExt" />
-        <option value="package:mine is:crash " />
         <option value="package:mine the mapper " />
         <option value="package:mine publicKey" />
         <option value="package:mine getSelectedWalletAccounts" />
@@ -19,7 +21,6 @@
         <option value="package:mine initial" />
         <option value="package:mine clicked" />
         <option value="currencylistprovider" />
-        <option value="is:crash " />
         <option value="txhas" />
         <option value="package:mine txHash" />
       </list>
